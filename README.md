@@ -1,3 +1,9 @@
+Nama: Risang Panggalih
+NIM: 123190096 
+Program Studi: Informatika
+
+GIT-Repository ini berisi source code Website Lawrence Co. Website ini dibuat menggunakan Laravel. UI web dibuat dengan bootstrap. Dalam Web dapat melakukan create, read, update, dan delete untuk Item List yang bersifat seperti wiki (dapat diubah oleh siapa saja).
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
